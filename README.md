@@ -41,18 +41,18 @@ The backend uses **FastAPI** and sends generation requests to a local **Ollama**
 
 ## 🖥️ Interface
 
-Add screenshots of your running application to `docs/images/` and then embed them here.
+### Main Workspace
 
-| Main workspace | Generated response |
-|---|---|
-| `docs/images/syntrix-workspace.png` | `docs/images/syntrix-result.png` |
+![Syntrix Workspace](docs/images/syntrix-workspace.png)
 
-After adding the images, replace this table with:
+### AI Generated Output
 
-```md
-![Syntrix workspace](docs/images/syntrix-workspace.png)
-![Syntrix generated result](docs/images/syntrix-result.png)
-```
+![Syntrix Generated Result](docs/images/syntrix-result.png)
+
+## 🧩 System Architecture
+
+![Syntrix Architecture](docs/images/syntrix-architecture.svg)
+
 
 ## 🧩 How It Works
 
