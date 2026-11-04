@@ -1,0 +1,39 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global Theme */
+:root {
+  font-family: Inter, system-ui, Arial, sans-serif;
+  color: #F5F5F7;
+  background: #16171D;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Body */
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: #16171D;
+  color: #F5F5F7;
+}
+
+/* Buttons */
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* Inputs */
+input,
+textarea,
+select {
+  font-family: inherit;
+}
