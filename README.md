@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Syntrix
+# ✦ AI TEXT GENERATOR
 ### Local AI Text Generation, running on your machine.
 
 A focused AI writing workspace built with **React**, **FastAPI**, **Ollama**, and **Qwen 3.5**.
